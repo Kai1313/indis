@@ -42,7 +42,7 @@
               <p class="prising_text">Dual Play</p>
               <p class="prising_text">Fitur : Pots(Jaringan Telepon) + Internet hingga 100Mbps</p>
               <p class="prise">Mulai dari <span>Rp280k/Bulan</span></p>
-              <a href="https://wa.me/08886669995?text=Hi%2C%20saya%20ingin%20mendapatkan%20informasi%20mengenai%20produk%20Indihome%20Fiber%20Paket%20Phonix" target="__blank" class="boxed_btn_green2">Pasang Sekarang</a>
+              <a href="https://wa.me/628886669995?text=Hi%2C%20saya%20ingin%20mendapatkan%20informasi%20mengenai%20produk%20Indihome%20Fiber%20Paket%20Phonix" target="__blank" class="boxed_btn_green2">Pasang Sekarang</a>
             </div>
           </div>
           <div class="col-xl-3 col-md-6 col-lg-6">
@@ -54,7 +54,7 @@
               <p class="prising_text">Dual Play</p>
               <p class="prising_text">Fitur : USee TV Entry Pack + Internet hingga 100Mbps</p>
               <p class="prise">Mulai dari <span>Rp320k/Bulan</span></p>
-              <a href="https://wa.me/08886669995?text=Hi%2C%20saya%20ingin%20mendapatkan%20informasi%20mengenai%20produk%20Indihome%20Fiber%20Paket%20Streamix" target="__blank" class="boxed_btn_green2">Pasang Sekarang</a>
+              <a href="https://wa.me/628886669995?text=Hi%2C%20saya%20ingin%20mendapatkan%20informasi%20mengenai%20produk%20Indihome%20Fiber%20Paket%20Streamix" target="__blank" class="boxed_btn_green2">Pasang Sekarang</a>
             </div>
           </div>
           <div class="col-xl-3 col-md-6 col-lg-6">
@@ -66,7 +66,7 @@
               <p class="prising_text">Triple Play</p>
               <p class="prising_text">Fitur : USee TV Essential Pack + Internet hingga 300Mbps</p>
               <p class="prise">Mulai dari <span>Rp470k/Bulan</span></p>
-              <a href="https://wa.me/08886669995?text=Hi%2C%20saya%20ingin%20mendapatkan%20informasi%20mengenai%20produk%20Indihome%20Fiber%20Paket%20Prestige" target="__blank" class="boxed_btn_green2">Pasang Sekarang</a>
+              <a href="https://wa.me/628886669995?text=Hi%2C%20saya%20ingin%20mendapatkan%20informasi%20mengenai%20produk%20Indihome%20Fiber%20Paket%20Prestige" target="__blank" class="boxed_btn_green2">Pasang Sekarang</a>
             </div>
           </div>
           <div class="col-xl-3 col-md-6 col-lg-6">
@@ -78,7 +78,7 @@
               <p class="prising_text">Triple Play & Platform Game</p>
               <p class="prising_text">Fitur : USee TV Essential Pack + Internet hingga 100Mbps</p>
               <p class="prise">Mulai dari <span>Rp380k/Bulan</span></p>
-              <a href="https://wa.me/08886669995?text=Hi%2C%20saya%20ingin%20mendapatkan%20informasi%20mengenai%20produk%20Indihome%20Fiber%20Paket%20Gamer" target="__blank" class="boxed_btn_green2">Pasang Sekarang</a>
+              <a href="https://wa.me/628886669995?text=Hi%2C%20saya%20ingin%20mendapatkan%20informasi%20mengenai%20produk%20Indihome%20Fiber%20Paket%20Gamer" target="__blank" class="boxed_btn_green2">Pasang Sekarang</a>
             </div>
           </div>
         </div>
@@ -198,7 +198,7 @@
               <h3>24h Customer Support</h3>
               <p>Layanan pelanggan 24jam siap melayani dan menjawab kebutuhan anda.</p>
               <div class="get_started">
-                <a class="boxed_btn_green" href="https://wa.me/08886669995?text=Hi%2C%20saya%20ingin%20mendapatkan%20informasi%20mengenai%20produk%20Indihome" target="__blank">
+                <a class="boxed_btn_green" href="https://wa.me/628886669995?text=Hi%2C%20saya%20ingin%20mendapatkan%20informasi%20mengenai%20produk%20Indihome" target="__blank">
                   <span>Pesan Sekarang</span>
                 </a>
                 <!-- <a href="#" class="phone_num">+62 888 666 9995</a> -->
@@ -304,7 +304,7 @@
         <h3>Pasang IndiHome Sekarang</h3>
         <p>Saat ini, jaringan IndiHome sudah tersebar di seluruh wilayah Indonesia, dan terus berinovasi untuk memenuhi kebutuhan internet yang lebih baik bagi masyarakat.</p>
         <div class="chat">
-          <a class="boxed_btn_green" href="https://wa.me/08886669995?text=Hi%2C%20saya%20ingin%20mendapatkan%20informasi%20mengenai%20pemasangan%20produk%20Indihome%20Fiber%20Paket%20Phonix" target="__blank">
+          <a class="boxed_btn_green" href="https://wa.me/628886669995?text=Hi%2C%20saya%20ingin%20mendapatkan%20informasi%20mengenai%20pemasangan%20produk%20Indihome%20Fiber%20Paket%20Phonix" target="__blank">
             <i class="flaticon-chat"></i>
             <span>Pesan Sekarang</span>
           </a>

@@ -27,7 +27,7 @@
                 </div>
                 <p class="prise">Mulai <span>Rp280k/Bulan</span></p>
                 <div class="start_btn text-center">
-                  <a class="boxed_btn_green" href="https://wa.me/08886669995?text=Hi%2C%20saya%20ingin%20mendapatkan%20informasi%20mengenai%20pemasangan%20produk%20Indihome%20Fiber%20Paket%20Phonix-A" target="__blank" >Pasang Sekarang</a>
+                  <a class="boxed_btn_green" href="https://wa.me/628886669995?text=Hi%2C%20saya%20ingin%20mendapatkan%20informasi%20mengenai%20pemasangan%20produk%20Indihome%20Fiber%20Paket%20Phonix-A" target="__blank" >Pasang Sekarang</a>
                 </div>
               </div>
             </div>
@@ -46,7 +46,7 @@
                 </div>
                 <p class="prise">Mulai <span>Rp345k/Bulan</span></p>
                 <div class="start_btn text-center">
-                  <a class="boxed_btn_green" href="https://wa.me/08886669995?text=Hi%2C%20saya%20ingin%20mendapatkan%20informasi%20mengenai%20pemasangan%20produk%20Indihome%20Fiber%20Paket%20Phonix-B" target="__blank">Pasang Sekarang</a>
+                  <a class="boxed_btn_green" href="https://wa.me/628886669995?text=Hi%2C%20saya%20ingin%20mendapatkan%20informasi%20mengenai%20pemasangan%20produk%20Indihome%20Fiber%20Paket%20Phonix-B" target="__blank">Pasang Sekarang</a>
                 </div>
               </div>
             </div>
@@ -65,7 +65,7 @@
                 </div>
                 <p class="prise">Mulai <span>Rp575k/Bulan</span></p>
                 <div class="start_btn text-center">
-                  <a class="boxed_btn_green" href="https://wa.me/08886669995?text=Hi%2C%20saya%20ingin%20mendapatkan%20informasi%20mengenai%20pemasangan%20produk%20Indihome%20Fiber%20Paket%20Phonix-C" target="__blank">Pasang Sekarang</a>
+                  <a class="boxed_btn_green" href="https://wa.me/628886669995?text=Hi%2C%20saya%20ingin%20mendapatkan%20informasi%20mengenai%20pemasangan%20produk%20Indihome%20Fiber%20Paket%20Phonix-C" target="__blank">Pasang Sekarang</a>
                 </div>
               </div>
             </div>
@@ -84,7 +84,7 @@
                 </div>
                 <p class="prise">Mulai <span>Rp935k/Bulan</span></p>
                 <div class="start_btn text-center">
-                  <a class="boxed_btn_green" href="https://wa.me/08886669995?text=Hi%2C%20saya%20ingin%20mendapatkan%20informasi%20mengenai%20pemasangan%20produk%20Indihome%20Fiber%20Paket%20Phonix-S" target="__blank">Pasang Sekarang</a>
+                  <a class="boxed_btn_green" href="https://wa.me/628886669995?text=Hi%2C%20saya%20ingin%20mendapatkan%20informasi%20mengenai%20pemasangan%20produk%20Indihome%20Fiber%20Paket%20Phonix-S" target="__blank">Pasang Sekarang</a>
                 </div>
               </div>
             </div>
@@ -106,7 +106,7 @@
                 </div>
                 <p class="prise">Mulai <span>Rp320k/Bulan</span></p>
                 <div class="start_btn text-center">
-                  <a class="boxed_btn_green" href="https://wa.me/08886669995?text=Hi%2C%20saya%20ingin%20mendapatkan%20informasi%20mengenai%20pemasangan%20produk%20Indihome%20Fiber%20Paket%20Streamix-A" target="__blank">Pasang Sekarang</a>
+                  <a class="boxed_btn_green" href="https://wa.me/628886669995?text=Hi%2C%20saya%20ingin%20mendapatkan%20informasi%20mengenai%20pemasangan%20produk%20Indihome%20Fiber%20Paket%20Streamix-A" target="__blank">Pasang Sekarang</a>
                 </div>
               </div>
             </div>
@@ -126,7 +126,7 @@
                 </div>
                 <p class="prise">Mulai <span>Rp385k/Bulan</span></p>
                 <div class="start_btn text-center">
-                  <a class="boxed_btn_green" href="https://wa.me/08886669995?text=Hi%2C%20saya%20ingin%20mendapatkan%20informasi%20mengenai%20pemasangan%20produk%20Indihome%20Fiber%20Paket%20Streamix-B" target="__blank">Pasang Sekarang</a>
+                  <a class="boxed_btn_green" href="https://wa.me/628886669995?text=Hi%2C%20saya%20ingin%20mendapatkan%20informasi%20mengenai%20pemasangan%20produk%20Indihome%20Fiber%20Paket%20Streamix-B" target="__blank">Pasang Sekarang</a>
                 </div>
               </div>
             </div>
@@ -146,7 +146,7 @@
                 </div>
                 <p class="prise">Mulai <span>Rp615k/Bulan</span></p>
                 <div class="start_btn text-center">
-                  <a class="boxed_btn_green" href="https://wa.me/08886669995?text=Hi%2C%20saya%20ingin%20mendapatkan%20informasi%20mengenai%20pemasangan%20produk%20Indihome%20Fiber%20Paket%20Streamix-C" target="__blank">Pasang Sekarang</a>
+                  <a class="boxed_btn_green" href="https://wa.me/628886669995?text=Hi%2C%20saya%20ingin%20mendapatkan%20informasi%20mengenai%20pemasangan%20produk%20Indihome%20Fiber%20Paket%20Streamix-C" target="__blank">Pasang Sekarang</a>
                 </div>
               </div>
             </div>
@@ -166,7 +166,7 @@
                 </div>
                 <p class="prise">Mulai <span>Rp975k/Bulan</span></p>
                 <div class="start_btn text-center">
-                  <a class="boxed_btn_green" href="https://wa.me/08886669995?text=Hi%2C%20saya%20ingin%20mendapatkan%20informasi%20mengenai%20pemasangan%20produk%20Indihome%20Fiber%20Paket%20Streamix-S" target="__blank">Pasang Sekarang</a>
+                  <a class="boxed_btn_green" href="https://wa.me/628886669995?text=Hi%2C%20saya%20ingin%20mendapatkan%20informasi%20mengenai%20pemasangan%20produk%20Indihome%20Fiber%20Paket%20Streamix-S" target="__blank">Pasang Sekarang</a>
                 </div>
               </div>
             </div>
@@ -188,7 +188,7 @@
                 </div>
                 <p class="prise">Mulai <span>Rp470k/Bulan</span></p>
                 <div class="start_btn text-center">
-                  <a class="boxed_btn_green" href="https://wa.me/08886669995?text=Hi%2C%20saya%20ingin%20mendapatkan%20informasi%20mengenai%20pemasangan%20produk%20Indihome%20Fiber%20Paket%20Prestige-A" target="__blank">Pasang Sekarang</a>
+                  <a class="boxed_btn_green" href="https://wa.me/628886669995?text=Hi%2C%20saya%20ingin%20mendapatkan%20informasi%20mengenai%20pemasangan%20produk%20Indihome%20Fiber%20Paket%20Prestige-A" target="__blank">Pasang Sekarang</a>
                 </div>
               </div>
             </div>
@@ -208,7 +208,7 @@
                 </div>
                 <p class="prise">Mulai <span>Rp515k/Bulan</span></p>
                 <div class="start_btn text-center">
-                  <a class="boxed_btn_green" href="https://wa.me/08886669995?text=Hi%2C%20saya%20ingin%20mendapatkan%20informasi%20mengenai%20pemasangan%20produk%20Indihome%20Fiber%20Paket%20Prestige-B" target="__blank">Pasang Sekarang</a>
+                  <a class="boxed_btn_green" href="https://wa.me/628886669995?text=Hi%2C%20saya%20ingin%20mendapatkan%20informasi%20mengenai%20pemasangan%20produk%20Indihome%20Fiber%20Paket%20Prestige-B" target="__blank">Pasang Sekarang</a>
                 </div>
               </div>
             </div>
@@ -228,7 +228,7 @@
                 </div>
                 <p class="prise">Mulai <span>Rp825k/Bulan</span></p>
                 <div class="start_btn text-center">
-                  <a class="boxed_btn_green" href="https://wa.me/08886669995?text=Hi%2C%20saya%20ingin%20mendapatkan%20informasi%20mengenai%20pemasangan%20produk%20Indihome%20Fiber%20Paket%20Prestige-C" target="__blank">Pasang Sekarang</a>
+                  <a class="boxed_btn_green" href="https://wa.me/628886669995?text=Hi%2C%20saya%20ingin%20mendapatkan%20informasi%20mengenai%20pemasangan%20produk%20Indihome%20Fiber%20Paket%20Prestige-C" target="__blank">Pasang Sekarang</a>
                 </div>
               </div>
             </div>
@@ -248,7 +248,7 @@
                 </div>
                 <p class="prise">Mulai <span>Rp1,250k/Bulan</span></p>
                 <div class="start_btn text-center">
-                  <a class="boxed_btn_green" href="https://wa.me/08886669995?text=Hi%2C%20saya%20ingin%20mendapatkan%20informasi%20mengenai%20pemasangan%20produk%20Indihome%20Fiber%20Paket%20Prestige-S" target="__blank">Pasang Sekarang</a>
+                  <a class="boxed_btn_green" href="https://wa.me/628886669995?text=Hi%2C%20saya%20ingin%20mendapatkan%20informasi%20mengenai%20pemasangan%20produk%20Indihome%20Fiber%20Paket%20Prestige-S" target="__blank">Pasang Sekarang</a>
                 </div>
               </div>
             </div>
@@ -268,7 +268,7 @@
                 </div>
                 <p class="prise">Mulai <span>Rp1,990k/Bulan</span></p>
                 <div class="start_btn text-center">
-                  <a class="boxed_btn_green" href="https://wa.me/08886669995?text=Hi%2C%20saya%20ingin%20mendapatkan%20informasi%20mengenai%20pemasangan%20produk%20Indihome%20Fiber%20Paket%20Prestige-SS" target="__blank">Pasang Sekarang</a>
+                  <a class="boxed_btn_green" href="https://wa.me/628886669995?text=Hi%2C%20saya%20ingin%20mendapatkan%20informasi%20mengenai%20pemasangan%20produk%20Indihome%20Fiber%20Paket%20Prestige-SS" target="__blank">Pasang Sekarang</a>
                 </div>
               </div>
             </div>
@@ -288,7 +288,7 @@
                 </div>
                 <p class="prise">Mulai <span>Rp2,990k/Bulan</span></p>
                 <div class="start_btn text-center">
-                  <a class="boxed_btn_green" href="https://wa.me/08886669995?text=Hi%2C%20saya%20ingin%20mendapatkan%20informasi%20mengenai%20pemasangan%20produk%20Indihome%20Fiber%20Paket%20Prestige-VIP" target="__blank">Pasang Sekarang</a>
+                  <a class="boxed_btn_green" href="https://wa.me/628886669995?text=Hi%2C%20saya%20ingin%20mendapatkan%20informasi%20mengenai%20pemasangan%20produk%20Indihome%20Fiber%20Paket%20Prestige-VIP" target="__blank">Pasang Sekarang</a>
                 </div>
               </div>
             </div>
@@ -311,7 +311,7 @@
                 </div>
                 <p class="prise">Mulai <span>Rp380k/Bulan</span></p>
                 <div class="start_btn text-center">
-                  <a class="boxed_btn_green" href="https://wa.me/08886669995?text=Hi%2C%20saya%20ingin%20mendapatkan%20informasi%20mengenai%20pemasangan%20produk%20Indihome%20Fiber%20Paket%20Gamer-A" target="__blank">Pasang Sekarang</a>
+                  <a class="boxed_btn_green" href="https://wa.me/628886669995?text=Hi%2C%20saya%20ingin%20mendapatkan%20informasi%20mengenai%20pemasangan%20produk%20Indihome%20Fiber%20Paket%20Gamer-A" target="__blank">Pasang Sekarang</a>
                 </div>
               </div>
             </div>
@@ -332,7 +332,7 @@
                 </div>
                 <p class="prise">Mulai <span>Rp480k/Bulan</span></p>
                 <div class="start_btn text-center">
-                  <a class="boxed_btn_green" href="https://wa.me/08886669995?text=Hi%2C%20saya%20ingin%20mendapatkan%20informasi%20mengenai%20pemasangan%20produk%20Indihome%20Fiber%20Paket%20Gamer-B" target="__blank">Pasang Sekarang</a>
+                  <a class="boxed_btn_green" href="https://wa.me/628886669995?text=Hi%2C%20saya%20ingin%20mendapatkan%20informasi%20mengenai%20pemasangan%20produk%20Indihome%20Fiber%20Paket%20Gamer-B" target="__blank">Pasang Sekarang</a>
                 </div>
               </div>
             </div>
@@ -353,7 +353,7 @@
                 </div>
                 <p class="prise">Mulai <span>Rp680k/Bulan</span></p>
                 <div class="start_btn text-center">
-                  <a class="boxed_btn_green" href="https://wa.me/08886669995?text=Hi%2C%20saya%20ingin%20mendapatkan%20informasi%20mengenai%20pemasangan%20produk%20Indihome%20Fiber%20Paket%20Gamer-C" target="__blank">Pasang Sekarang</a>
+                  <a class="boxed_btn_green" href="https://wa.me/628886669995?text=Hi%2C%20saya%20ingin%20mendapatkan%20informasi%20mengenai%20pemasangan%20produk%20Indihome%20Fiber%20Paket%20Gamer-C" target="__blank">Pasang Sekarang</a>
                 </div>
               </div>
             </div>
@@ -374,7 +374,7 @@
                 </div>
                 <p class="prise">Mulai <span>Rp780k/Bulan</span></p>
                 <div class="start_btn text-center">
-                  <a class="boxed_btn_green" href="https://wa.me/08886669995?text=Hi%2C%20saya%20ingin%20mendapatkan%20informasi%20mengenai%20pemasangan%20produk%20Indihome%20Fiber%20Paket%20Gamer-S" target="__blank">Pasang Sekarang</a>
+                  <a class="boxed_btn_green" href="https://wa.me/628886669995?text=Hi%2C%20saya%20ingin%20mendapatkan%20informasi%20mengenai%20pemasangan%20produk%20Indihome%20Fiber%20Paket%20Gamer-S" target="__blank">Pasang Sekarang</a>
                 </div>
               </div>
             </div>
@@ -395,7 +395,7 @@
                 </div>
                 <p class="prise">Mulai <span>Rp780k/Bulan</span></p>
                 <div class="start_btn text-center">
-                  <a class="boxed_btn_green" href="https://wa.me/08886669995?text=Hi%2C%20saya%20ingin%20mendapatkan%20informasi%20mengenai%20pemasangan%20produk%20Indihome%20Fiber%20Paket%20Gamer-SS" target="__blank">Pasang Sekarang</a>
+                  <a class="boxed_btn_green" href="https://wa.me/628886669995?text=Hi%2C%20saya%20ingin%20mendapatkan%20informasi%20mengenai%20pemasangan%20produk%20Indihome%20Fiber%20Paket%20Gamer-SS" target="__blank">Pasang Sekarang</a>
                 </div>
               </div>
             </div>
@@ -416,7 +416,7 @@
                 </div>
                 <p class="prise">Mulai <span>Rp1,380k/Bulan</span></p>
                 <div class="start_btn text-center">
-                  <a class="boxed_btn_green" href="https://wa.me/08886669995?text=Hi%2C%20saya%20ingin%20mendapatkan%20informasi%20mengenai%20pemasangan%20produk%20Indihome%20Fiber%20Paket%20Gamer-VIP" target="__blank">Pasang Sekarang</a>
+                  <a class="boxed_btn_green" href="https://wa.me/628886669995?text=Hi%2C%20saya%20ingin%20mendapatkan%20informasi%20mengenai%20pemasangan%20produk%20Indihome%20Fiber%20Paket%20Gamer-VIP" target="__blank">Pasang Sekarang</a>
                 </div>
               </div>
             </div>
@@ -496,7 +496,7 @@
               <h3>24h Customer Support</h3>
               <p>Layanan pelanggan 24jam siap melayani dan menjawab kebutuhan anda.</p>
               <div class="get_started">
-                <a class="boxed_btn_green" href="https://wa.me/08886669995?text=Hi%2C%20saya%20ingin%20mendapatkan%20informasi%20mengenai%20produk%20Indihome" target="__blank">
+                <a class="boxed_btn_green" href="https://wa.me/628886669995?text=Hi%2C%20saya%20ingin%20mendapatkan%20informasi%20mengenai%20produk%20Indihome" target="__blank">
                   <span>Pesan Sekarang</span>
                 </a>
                 <!-- <a href="#" class="phone_num">+62 888 666 9995</a> -->
@@ -579,11 +579,11 @@
                 </div>
                 <div class="col-xl-6 col-md-8 col-lg-6">
                   <div class="chat">
-                    <a class="boxed_btn_green" href="https://wa.me/08886669995?text=Hi%2C%20saya%20ingin%20mendapatkan%20informasi%20mengenai%20produk%20Indihome%20Fiber" target="__blank">
+                    <a class="boxed_btn_green" href="https://wa.me/6281331897748?text=Hi%2C%20saya%20ingin%20mendapatkan%20informasi%20mengenai%20produk%20Indihome%20Fiber" target="__blank">
                       <i class="flaticon-chat"></i>
                       <span>Live Chat</span>
                     </a>
-                    <a class="boxed_btn_green2" href="https://wa.me/08886669995?text=Hi%2C%20saya%20ingin%20mendapatkan%20informasi%20mengenai%20produk%20Indihome" target="__blank">
+                    <a class="boxed_btn_green2" href="https://wa.me/628886669995?text=Hi%2C%20saya%20ingin%20mendapatkan%20informasi%20mengenai%20produk%20Indihome" target="__blank">
                       Pesan Sekarang
                     </a>
                   </div>

@@ -39,11 +39,11 @@
                 </div>
                 <div class="col-xl-6 col-md-8 col-lg-6">
                   <div class="chat">
-                    <a class="boxed_btn_green" href="https://wa.me/08886669995?text=Hi%2C%20saya%20ingin%20mendapatkan%20informasi%20mengenai%20produk%20Indihome%20Fiber" target="__blank">
+                    <a class="boxed_btn_green" href="https://wa.me/6281331897748?text=Hi%2C%20saya%20ingin%20mendapatkan%20informasi%20mengenai%20produk%20Indihome%20Fiber" target="__blank">
                       <i class="flaticon-chat"></i>
                       <span>Live Chat</span>
                     </a>
-                    <a class="boxed_btn_green2" href="https://wa.me/08886669995?text=Hi%2C%20saya%20ingin%20mendapatkan%20informasi%20mengenai%20produk%20Indihome" target="__blank">
+                    <a class="boxed_btn_green2" href="https://wa.me/628886669995?text=Hi%2C%20saya%20ingin%20mendapatkan%20informasi%20mengenai%20produk%20Indihome" target="__blank">
                       Pesan Sekarang
                     </a>
                   </div>
