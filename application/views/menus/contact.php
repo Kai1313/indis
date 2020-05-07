@@ -82,19 +82,24 @@
               </div>
             </div> -->
             <div class="media contact-info">
-              <span class="contact-info__icon"><i class="ti-tablet"></i></span>
+              <span class="contact-info__icon"><a href="https://wa.me/628886669995?text=Hi%2C%20saya%20ingin%20mendapatkan%20informasi%20mengenai%20produk%20Indihome%20Fiber" target="__blank"><img src="<?= base_url();?>assets/img/source/wa-logo.svg" style="width: 27px; height: auto;" alt=""></a></span>
               <div class="media-body">
-                <h3>+62 888 666 9995</h3>
-                <h3>+62 822 230 11997</h3>
-                <h3>+62 856 040 43498</h3>
-                <h3>+62 813 318 97748(Line)</h3>
+                <a href="https://wa.me/628886669995?text=Hi%2C%20saya%20ingin%20mendapatkan%20informasi%20mengenai%20produk%20Indihome%20Fiber" target="__blank"><h3>+62 888 666 9995</h3></a>
+                <a href="https://wa.me/6282223011997?text=Hi%2C%20saya%20ingin%20mendapatkan%20informasi%20mengenai%20produk%20Indihome%20Fiber" target="__blank"><h3>+62 822 230 11997</h3></a>
+                <a href="https://wa.me/6285604043498?text=Hi%2C%20saya%20ingin%20mendapatkan%20informasi%20mengenai%20produk%20Indihome%20Fiber" target="__blank"><h3>+62 856 040 43498</h3></a>
                 <!-- <p>Mon to Fri 9am to 6pm</p> -->
               </div>
             </div>
             <div class="media contact-info">
-              <span class="contact-info__icon"><i class="ti-email"></i></span>
+              <span class="contact-info__icon"><a href="http://line.me/ti/p/~" target="__blank"><img src="<?= base_url();?>assets/img/source/line-logo.svg" style="width: 27px; height: auto;" alt=""></a></span>
               <div class="media-body">
-                <h3>indissda2020@gmail.com</h3>
+                <a href="http://line.me/ti/p/~" target="__blank"><h3>+62 813 318 97748</h3></a>
+              </div>
+            </div>
+            <div class="media contact-info">
+              <span class="contact-info__icon"><a href="mailto:Winnahoney6@gmail.com?subject=Tanya IndiHome"><img src="<?= base_url();?>assets/img/source/email-logo.svg" style="width: 27px; height: auto;" alt=""></a></span>
+              <div class="media-body">
+                <a href="mailto:Winnahoney6@gmail.com?subject=Tanya IndiHome"><h3>Winnahoney6@gmail.com</h3></a>
                 <p>Send us your query anytime!</p>
               </div>
             </div>

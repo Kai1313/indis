@@ -7,10 +7,10 @@
     <div class="package_prsing_area">
       <div class="container">
         <div class="row" style="margin-bottom: 20px;">
-          <div class="col-lg-2"><button type="button" onclick="checkPackage('phonix')" class="genric-btn info">Phonix</button></div>
-          <div class="col-lg-2"><button type="button" onclick="checkPackage('streamix')" class="genric-btn info">Streamix</button></div>
-          <div class="col-lg-2"><button type="button" onclick="checkPackage('prestige')" class="genric-btn info">Prestige</button></div>
-          <div class="col-lg-2"><button type="button" onclick="checkPackage('gamer')" class="genric-btn info">Gamer</button></div>
+          <div class="col-lg-2 col-4" style="margin-bottom: 10px; margin-right: 5px;"><button type="button" onclick="checkPackage('phonix')" class="genric-btn info">Phonix</button></div>
+          <div class="col-lg-2 col-4" style="margin-bottom: 10px; margin-right: 5px;"><button type="button" onclick="checkPackage('streamix')" class="genric-btn info">Streamix</button></div>
+          <div class="col-lg-2 col-4" style="margin-bottom: 10px; margin-right: 5px;"><button type="button" onclick="checkPackage('prestige')" class="genric-btn info">Prestige</button></div>
+          <div class="col-lg-2 col-4" style="margin-bottom: 10px; margin-right: 5px;"><button type="button" onclick="checkPackage('gamer')" class="genric-btn info">Gamer</button></div>
         </div>
         <div class="row package-list" for="phonix" id="phonix">
           <div class="col-xl-3 col-md-6 col-lg-3">

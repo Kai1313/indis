@@ -3,9 +3,26 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Indihome Fiber</title>
-    <meta name="description" content="">
+    <!-- Primary Meta Tags -->
+    <title>Indihome Fiber Sidoarjo dan Sekitarnya</title>
+    <meta name="title" content="Indihome Fiber Sidoarjo dan Sekitarnya">
+    <meta name="description" content="Berlangganan IndiHome bisa dapat internet cepat, nelpon rumah sepuasnya dan nonton beragam konten terbaik di layar TV interaktif">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="http://www.kai1313digital.online/indis/">
+    <meta property="og:title" content="Indihome Fiber Sidoarjo dan Sekitarnya">
+    <meta property="og:description" content="Berlangganan IndiHome bisa dapat internet cepat, nelpon rumah sepuasnya dan nonton beragam konten terbaik di layar TV interaktif">
+    <meta property="og:image" content="<?= base_url();?>assets/img/source/meta-logo.png">
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="http://www.kai1313digital.online/indis/">
+    <meta property="twitter:title" content="Indihome Fiber Sidoarjo dan Sekitarnya">
+    <meta property="twitter:description" content="Berlangganan IndiHome bisa dapat internet cepat, nelpon rumah sepuasnya dan nonton beragam konten terbaik di layar TV interaktif">
+    <meta property="twitter:image" content="<?= base_url();?>assets/img/source/meta-logo.png">
+
 
     <!-- <link rel="manifest" href="site.webmanifest"> -->
     <link rel="shortcut icon" type="image/x-icon" href="<?= base_url();?>assets/img/source/favicon.png">

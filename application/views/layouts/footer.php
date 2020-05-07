@@ -9,11 +9,11 @@
                   <a href="#"><img src="<?= base_url();?>assets/img/source/main-logo-white.svg" style="width: 126px; height: auto;" alt=""></a>
                 </div>
                 <p class="footer_text doanar"> 
-                  <a class="first" href="#">+62 888 666 9995</a> <br />
-                  <a href="#">+62 822 230 11997</a> <br />
-                  <a href="#">+62 856 040 43498</a> <br />
+                  <a class="first" href="https://wa.me/628886669995?text=Hi%2C%20saya%20ingin%20mendapatkan%20informasi%20mengenai%20produk%20Indihome%20Fiber">+62 888 666 9995(Telp-WA)</a> <br />
+                  <a href="https://wa.me/6282223011997?text=Hi%2C%20saya%20ingin%20mendapatkan%20informasi%20mengenai%20produk%20Indihome%20Fiber">+62 822 230 11997(Telp-WA)</a> <br />
+                  <a href="https://wa.me/6285604043498?text=Hi%2C%20saya%20ingin%20mendapatkan%20informasi%20mengenai%20produk%20Indihome%20Fiber">+62 856 040 43498(Telp-WA)</a> <br />
                   <a href="#">+62 813 318 97748(Line)</a> <br />
-                  <a href="#">indissda2020@gmail.com</a>
+                  <a href="mailto:Winnahoney6@gmail.com?subject=Tanya IndiHome">Winnahoney6@gmail.com</a>
                 </p>
                 <div class="socail_links">
                   <ul>
