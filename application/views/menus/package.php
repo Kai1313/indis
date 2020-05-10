@@ -8,9 +8,10 @@
       <div class="container">
         <div class="row" style="margin-bottom: 20px;">
           <div class="col-lg-2 col-4" style="margin-bottom: 10px; margin-right: 5px;"><button type="button" onclick="checkPackage('phonix')" class="genric-btn info">Phonix</button></div>
-          <div class="col-lg-2 col-4" style="margin-bottom: 10px; margin-right: 5px;"><button type="button" onclick="checkPackage('streamix')" class="genric-btn info">Streamix</button></div>
-          <div class="col-lg-2 col-4" style="margin-bottom: 10px; margin-right: 5px;"><button type="button" onclick="checkPackage('prestige')" class="genric-btn info">Prestige</button></div>
-          <div class="col-lg-2 col-4" style="margin-bottom: 10px; margin-right: 5px;"><button type="button" onclick="checkPackage('gamer')" class="genric-btn info">Gamer</button></div>
+          <div class="col-lg-2 col-4" style="margin-bottom: 10px; margin-right: 5px;"><button type="button" onclick="checkPackage('streamix')" class="genric-btn streamix">Streamix</button></div>
+          <div class="col-lg-2 col-4" style="margin-bottom: 10px; margin-right: 5px;"><button type="button" onclick="checkPackage('fitvar')" class="genric-btn fitvar">Varian</button></div>
+          <div class="col-lg-2 col-4" style="margin-bottom: 10px; margin-right: 5px;"><button type="button" onclick="checkPackage('gamer')" class="genric-btn gamer">Gamer</button></div>
+          <div class="col-lg-2 col-4" style="margin-bottom: 10px; margin-right: 5px;"><button type="button" onclick="checkPackage('prestige')" class="genric-btn prestige">Prestige</button></div>
         </div>
         <div class="row package-list" for="phonix" id="phonix">
           <div class="col-xl-3 col-md-6 col-lg-3">
@@ -172,123 +173,103 @@
             </div>
           </div>
         </div>
-        <div class="row package-list" for="prestige" id="prestige">
+        <div class="row package-list" for="fitvar" id="fitvar">
           <div class="col-xl-4 col-md-6 col-lg-4">
             <div class="single_prising">
-              <div class="prising_header pink">
-                <h3>Prestige-A</h3>
+              <div class="prising_header teal">
+                <h3>Varian-A</h3>
               </div>
               <div class="middle_content">
                 <div class="list">
                   <ul>
                     <li>Jaringan Telepon</li>
-                    <li>USee TV Essential Pack</li>
+                    <li>USee TV Entry Pack</li>
                     <li>Internet up-to 10Mbps</li>
                   </ul>
                 </div>
-                <p class="prise">Mulai <span>Rp470k/Bulan</span></p>
+                <p class="prise">Mulai <span>Rp360k/Bulan</span></p>
                 <div class="start_btn text-center">
-                  <a class="boxed_btn_green" href="https://wa.me/628886669995?text=Hi%2C%20saya%20ingin%20mendapatkan%20informasi%20mengenai%20pemasangan%20produk%20Indihome%20Fiber%20Paket%20Prestige-A" target="__blank">Pasang Sekarang</a>
+                  <a class="boxed_btn_green" href="https://wa.me/628886669995?text=Hi%2C%20saya%20ingin%20mendapatkan%20informasi%20mengenai%20pemasangan%20produk%20Indihome%20Fiber%20Paket%20Varian-A" target="__blank">Pasang Sekarang</a>
                 </div>
               </div>
             </div>
           </div>
           <div class="col-xl-4 col-md-6 col-lg-4">
             <div class="single_prising">
-              <div class="prising_header pink">
-                <h3>Prestige-B</h3>
+              <div class="prising_header teal">
+                <h3>Varian-B</h3>
               </div>
               <div class="middle_content">
                 <div class="list">
                   <ul>
                     <li>Jaringan Telepon</li>
-                    <li>USee TV Essential Pack</li>
+                    <li>USee TV Entry Pack</li>
                     <li>Internet up-to 20Mbps</li>
                   </ul>
                 </div>
-                <p class="prise">Mulai <span>Rp515k/Bulan</span></p>
+                <p class="prise">Mulai <span>Rp395k/Bulan</span></p>
                 <div class="start_btn text-center">
-                  <a class="boxed_btn_green" href="https://wa.me/628886669995?text=Hi%2C%20saya%20ingin%20mendapatkan%20informasi%20mengenai%20pemasangan%20produk%20Indihome%20Fiber%20Paket%20Prestige-B" target="__blank">Pasang Sekarang</a>
+                  <a class="boxed_btn_green" href="https://wa.me/628886669995?text=Hi%2C%20saya%20ingin%20mendapatkan%20informasi%20mengenai%20pemasangan%20produk%20Indihome%20Fiber%20Paket%20Varian-B" target="__blank">Pasang Sekarang</a>
                 </div>
               </div>
             </div>
           </div>
           <div class="col-xl-4 col-md-6 col-lg-4">
             <div class="single_prising">
-              <div class="prising_header pink">
-                <h3>Prestige-C</h3>
+              <div class="prising_header teal">
+                <h3>Varian-C</h3>
               </div>
               <div class="middle_content">
                 <div class="list">
                   <ul>
                     <li>Jaringan Telepon</li>
-                    <li>USee TV Essential Pack</li>
+                    <li>USee TV Entry Pack</li>
+                    <li>Internet up-to 30Mbps</li>
+                  </ul>
+                </div>
+                <p class="prise">Mulai <span>Rp480k/Bulan</span></p>
+                <div class="start_btn text-center">
+                  <a class="boxed_btn_green" href="https://wa.me/628886669995?text=Hi%2C%20saya%20ingin%20mendapatkan%20informasi%20mengenai%20pemasangan%20produk%20Indihome%20Fiber%20Paket%20Varian-C" target="__blank">Pasang Sekarang</a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-xl-4 col-md-6 col-lg-4">
+            <div class="single_prising">
+              <div class="prising_header teal">
+                <h3>Varian-S</h3>
+              </div>
+              <div class="middle_content">
+                <div class="list">
+                  <ul>
+                    <li>Jaringan Telepon</li>
+                    <li>USee TV Entry Pack</li>
+                    <li>Internet up-to 40Mbps</li>
+                  </ul>
+                </div>
+                <p class="prise">Mulai <span>Rp560k/Bulan</span></p>
+                <div class="start_btn text-center">
+                  <a class="boxed_btn_green" href="https://wa.me/628886669995?text=Hi%2C%20saya%20ingin%20mendapatkan%20informasi%20mengenai%20pemasangan%20produk%20Indihome%20Fiber%20Paket%20Varian-S" target="__blank">Pasang Sekarang</a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-xl-4 col-md-6 col-lg-4">
+            <div class="single_prising">
+              <div class="prising_header teal">
+                <h3>Varian-SS</h3>
+              </div>
+              <div class="middle_content">
+                <div class="list">
+                  <ul>
+                    <li>Jaringan Telepon</li>
+                    <li>USee TV Entry Pack</li>
                     <li>Internet up-to 50Mbps</li>
                   </ul>
                 </div>
-                <p class="prise">Mulai <span>Rp825k/Bulan</span></p>
+                <p class="prise">Mulai <span>Rp625k/Bulan</span></p>
                 <div class="start_btn text-center">
-                  <a class="boxed_btn_green" href="https://wa.me/628886669995?text=Hi%2C%20saya%20ingin%20mendapatkan%20informasi%20mengenai%20pemasangan%20produk%20Indihome%20Fiber%20Paket%20Prestige-C" target="__blank">Pasang Sekarang</a>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-xl-4 col-md-6 col-lg-4">
-            <div class="single_prising">
-              <div class="prising_header pink">
-                <h3>Prestige-S</h3>
-              </div>
-              <div class="middle_content">
-                <div class="list">
-                  <ul>
-                    <li>Jaringan Telepon</li>
-                    <li>USee TV Essential Pack</li>
-                    <li>Internet up-to 100Mbps</li>
-                  </ul>
-                </div>
-                <p class="prise">Mulai <span>Rp1,250k/Bulan</span></p>
-                <div class="start_btn text-center">
-                  <a class="boxed_btn_green" href="https://wa.me/628886669995?text=Hi%2C%20saya%20ingin%20mendapatkan%20informasi%20mengenai%20pemasangan%20produk%20Indihome%20Fiber%20Paket%20Prestige-S" target="__blank">Pasang Sekarang</a>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-xl-4 col-md-6 col-lg-4">
-            <div class="single_prising">
-              <div class="prising_header pink">
-                <h3>Prestige-SS</h3>
-              </div>
-              <div class="middle_content">
-                <div class="list">
-                  <ul>
-                    <li>Jaringan Telepon</li>
-                    <li>USee TV Essential Pack</li>
-                    <li>Internet up-to 200Mbps</li>
-                  </ul>
-                </div>
-                <p class="prise">Mulai <span>Rp1,990k/Bulan</span></p>
-                <div class="start_btn text-center">
-                  <a class="boxed_btn_green" href="https://wa.me/628886669995?text=Hi%2C%20saya%20ingin%20mendapatkan%20informasi%20mengenai%20pemasangan%20produk%20Indihome%20Fiber%20Paket%20Prestige-SS" target="__blank">Pasang Sekarang</a>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-xl-4 col-md-6 col-lg-4">
-            <div class="single_prising">
-              <div class="prising_header pink">
-                <h3>Prestige-VIP</h3>
-              </div>
-              <div class="middle_content">
-                <div class="list">
-                  <ul>
-                    <li>Jaringan Telepon</li>
-                    <li>USee TV Essential Pack</li>
-                    <li>Internet up-to 300Mbps</li>
-                  </ul>
-                </div>
-                <p class="prise">Mulai <span>Rp2,990k/Bulan</span></p>
-                <div class="start_btn text-center">
-                  <a class="boxed_btn_green" href="https://wa.me/628886669995?text=Hi%2C%20saya%20ingin%20mendapatkan%20informasi%20mengenai%20pemasangan%20produk%20Indihome%20Fiber%20Paket%20Prestige-VIP" target="__blank">Pasang Sekarang</a>
+                  <a class="boxed_btn_green" href="https://wa.me/628886669995?text=Hi%2C%20saya%20ingin%20mendapatkan%20informasi%20mengenai%20pemasangan%20produk%20Indihome%20Fiber%20Paket%20Varian-SS" target="__blank">Pasang Sekarang</a>
                 </div>
               </div>
             </div>
@@ -417,6 +398,128 @@
                 <p class="prise">Mulai <span>Rp1,380k/Bulan</span></p>
                 <div class="start_btn text-center">
                   <a class="boxed_btn_green" href="https://wa.me/628886669995?text=Hi%2C%20saya%20ingin%20mendapatkan%20informasi%20mengenai%20pemasangan%20produk%20Indihome%20Fiber%20Paket%20Gamer-VIP" target="__blank">Pasang Sekarang</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="row package-list" for="prestige" id="prestige">
+          <div class="col-xl-4 col-md-6 col-lg-4">
+            <div class="single_prising">
+              <div class="prising_header pink">
+                <h3>Prestige-A</h3>
+              </div>
+              <div class="middle_content">
+                <div class="list">
+                  <ul>
+                    <li>Jaringan Telepon</li>
+                    <li>USee TV Essential Pack</li>
+                    <li>Internet up-to 10Mbps</li>
+                  </ul>
+                </div>
+                <p class="prise">Mulai <span>Rp470k/Bulan</span></p>
+                <div class="start_btn text-center">
+                  <a class="boxed_btn_green" href="https://wa.me/628886669995?text=Hi%2C%20saya%20ingin%20mendapatkan%20informasi%20mengenai%20pemasangan%20produk%20Indihome%20Fiber%20Paket%20Prestige-A" target="__blank">Pasang Sekarang</a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-xl-4 col-md-6 col-lg-4">
+            <div class="single_prising">
+              <div class="prising_header pink">
+                <h3>Prestige-B</h3>
+              </div>
+              <div class="middle_content">
+                <div class="list">
+                  <ul>
+                    <li>Jaringan Telepon</li>
+                    <li>USee TV Essential Pack</li>
+                    <li>Internet up-to 20Mbps</li>
+                  </ul>
+                </div>
+                <p class="prise">Mulai <span>Rp515k/Bulan</span></p>
+                <div class="start_btn text-center">
+                  <a class="boxed_btn_green" href="https://wa.me/628886669995?text=Hi%2C%20saya%20ingin%20mendapatkan%20informasi%20mengenai%20pemasangan%20produk%20Indihome%20Fiber%20Paket%20Prestige-B" target="__blank">Pasang Sekarang</a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-xl-4 col-md-6 col-lg-4">
+            <div class="single_prising">
+              <div class="prising_header pink">
+                <h3>Prestige-C</h3>
+              </div>
+              <div class="middle_content">
+                <div class="list">
+                  <ul>
+                    <li>Jaringan Telepon</li>
+                    <li>USee TV Essential Pack</li>
+                    <li>Internet up-to 50Mbps</li>
+                  </ul>
+                </div>
+                <p class="prise">Mulai <span>Rp825k/Bulan</span></p>
+                <div class="start_btn text-center">
+                  <a class="boxed_btn_green" href="https://wa.me/628886669995?text=Hi%2C%20saya%20ingin%20mendapatkan%20informasi%20mengenai%20pemasangan%20produk%20Indihome%20Fiber%20Paket%20Prestige-C" target="__blank">Pasang Sekarang</a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-xl-4 col-md-6 col-lg-4">
+            <div class="single_prising">
+              <div class="prising_header pink">
+                <h3>Prestige-S</h3>
+              </div>
+              <div class="middle_content">
+                <div class="list">
+                  <ul>
+                    <li>Jaringan Telepon</li>
+                    <li>USee TV Essential Pack</li>
+                    <li>Internet up-to 100Mbps</li>
+                  </ul>
+                </div>
+                <p class="prise">Mulai <span>Rp1,250k/Bulan</span></p>
+                <div class="start_btn text-center">
+                  <a class="boxed_btn_green" href="https://wa.me/628886669995?text=Hi%2C%20saya%20ingin%20mendapatkan%20informasi%20mengenai%20pemasangan%20produk%20Indihome%20Fiber%20Paket%20Prestige-S" target="__blank">Pasang Sekarang</a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-xl-4 col-md-6 col-lg-4">
+            <div class="single_prising">
+              <div class="prising_header pink">
+                <h3>Prestige-SS</h3>
+              </div>
+              <div class="middle_content">
+                <div class="list">
+                  <ul>
+                    <li>Jaringan Telepon</li>
+                    <li>USee TV Essential Pack</li>
+                    <li>Internet up-to 200Mbps</li>
+                  </ul>
+                </div>
+                <p class="prise">Mulai <span>Rp1,990k/Bulan</span></p>
+                <div class="start_btn text-center">
+                  <a class="boxed_btn_green" href="https://wa.me/628886669995?text=Hi%2C%20saya%20ingin%20mendapatkan%20informasi%20mengenai%20pemasangan%20produk%20Indihome%20Fiber%20Paket%20Prestige-SS" target="__blank">Pasang Sekarang</a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-xl-4 col-md-6 col-lg-4">
+            <div class="single_prising">
+              <div class="prising_header pink">
+                <h3>Prestige-VIP</h3>
+              </div>
+              <div class="middle_content">
+                <div class="list">
+                  <ul>
+                    <li>Jaringan Telepon</li>
+                    <li>USee TV Essential Pack</li>
+                    <li>Internet up-to 300Mbps</li>
+                  </ul>
+                </div>
+                <p class="prise">Mulai <span>Rp2,990k/Bulan</span></p>
+                <div class="start_btn text-center">
+                  <a class="boxed_btn_green" href="https://wa.me/628886669995?text=Hi%2C%20saya%20ingin%20mendapatkan%20informasi%20mengenai%20pemasangan%20produk%20Indihome%20Fiber%20Paket%20Prestige-VIP" target="__blank">Pasang Sekarang</a>
                 </div>
               </div>
             </div>

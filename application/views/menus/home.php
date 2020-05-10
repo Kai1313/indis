@@ -27,25 +27,25 @@
         <div class="row">
           <div class="col-xl-12">
             <div class="section_title text-center mb-100">
-              <h3>Pilihan Paket Indihome</h3>
-              <p>Beragam pilihan paket IndiHome yang menyesuaikan dengan kebutuhan anda</p>
+              <h3 style="color: #f6da63;">Pilihan Paket Indihome</h3>
+              <p style="color: #ffffff">Beragam pilihan paket IndiHome yang menyesuaikan dengan kebutuhan anda</p>
             </div>
           </div>
         </div>
         <div class="row">
-          <div class="col-xl-3 col-md-6 col-lg-6">
+          <div class="col-xl-4 col-md-6 col-lg-6">
             <div class="single_prising">
               <div class="prising_icon blue">
                 <i class="flaticon-hosting"></i>
               </div>
               <h3>Paket Phonix</h3>
               <p class="prising_text">Dual Play</p>
-              <p class="prising_text">Fitur : Pots(Jaringan Telepon) + Internet hingga 100Mbps</p>
+              <p class="prising_text">Fitur : Jaringan Telepon + Internet hingga 100Mbps</p>
               <p class="prise">Mulai dari <span>Rp280k/Bulan</span></p>
-              <a href="https://wa.me/628886669995?text=Hi%2C%20saya%20ingin%20mendapatkan%20informasi%20mengenai%20produk%20Indihome%20Fiber%20Paket%20Phonix" target="__blank" class="boxed_btn_green2">Pasang Sekarang</a>
+              <a href="https://wa.me/628886669995?text=Hi%2C%20saya%20ingin%20mendapatkan%20informasi%20mengenai%20produk%20Indihome%20Fiber%20Paket%20Phonix" target="__blank" class="boxed_btn_red">Pasang Sekarang</a>
             </div>
           </div>
-          <div class="col-xl-3 col-md-6 col-lg-6">
+          <div class="col-xl-4 col-md-6 col-lg-6">
             <div class="single_prising">
               <div class="prising_icon lite_blue">
                 <i class="flaticon-hosting"></i>
@@ -54,22 +54,24 @@
               <p class="prising_text">Dual Play</p>
               <p class="prising_text">Fitur : USee TV Entry Pack + Internet hingga 100Mbps</p>
               <p class="prise">Mulai dari <span>Rp320k/Bulan</span></p>
-              <a href="https://wa.me/628886669995?text=Hi%2C%20saya%20ingin%20mendapatkan%20informasi%20mengenai%20produk%20Indihome%20Fiber%20Paket%20Streamix" target="__blank" class="boxed_btn_green2">Pasang Sekarang</a>
+              <a href="https://wa.me/628886669995?text=Hi%2C%20saya%20ingin%20mendapatkan%20informasi%20mengenai%20produk%20Indihome%20Fiber%20Paket%20Streamix" target="__blank" class="boxed_btn_red">Pasang Sekarang</a>
             </div>
           </div>
-          <div class="col-xl-3 col-md-6 col-lg-6">
+          <div class="col-xl-4 col-md-6 col-lg-6">
             <div class="single_prising">
-              <div class="prising_icon pink">
+              <div class="prising_icon teal">
                 <i class="flaticon-hosting"></i>
               </div>
-              <h3>Paket Prestige</h3>
-              <p class="prising_text">Triple Play</p>
-              <p class="prising_text">Fitur : USee TV Essential Pack + Internet hingga 300Mbps</p>
-              <p class="prise">Mulai dari <span>Rp470k/Bulan</span></p>
-              <a href="https://wa.me/628886669995?text=Hi%2C%20saya%20ingin%20mendapatkan%20informasi%20mengenai%20produk%20Indihome%20Fiber%20Paket%20Prestige" target="__blank" class="boxed_btn_green2">Pasang Sekarang</a>
+              <h3>Paket Fit Varian</h3>
+              <p class="prising_text">Dual Play</p>
+              <p class="prising_text">Fitur : USee TV Entry Pack + Internet hingga 50Mbps</p>
+              <p class="prise">Mulai dari <span>Rp360k/Bulan</span></p>
+              <a href="https://wa.me/628886669995?text=Hi%2C%20saya%20ingin%20mendapatkan%20informasi%20mengenai%20produk%20Indihome%20Fiber%20Paket%20Fit%20Varian" target="__blank" class="boxed_btn_red">Pasang Sekarang</a>
             </div>
           </div>
-          <div class="col-xl-3 col-md-6 col-lg-6">
+        </div>
+        <div class="row">
+          <div class="col-xl-4 col-md-6 col-lg-6">
             <div class="single_prising">
               <div class="prising_icon yellow">
                 <i class="flaticon-hosting"></i>
@@ -78,7 +80,19 @@
               <p class="prising_text">Triple Play & Platform Game</p>
               <p class="prising_text">Fitur : USee TV Essential Pack + Internet hingga 100Mbps</p>
               <p class="prise">Mulai dari <span>Rp380k/Bulan</span></p>
-              <a href="https://wa.me/628886669995?text=Hi%2C%20saya%20ingin%20mendapatkan%20informasi%20mengenai%20produk%20Indihome%20Fiber%20Paket%20Gamer" target="__blank" class="boxed_btn_green2">Pasang Sekarang</a>
+              <a href="https://wa.me/628886669995?text=Hi%2C%20saya%20ingin%20mendapatkan%20informasi%20mengenai%20produk%20Indihome%20Fiber%20Paket%20Gamer" target="__blank" class="boxed_btn_red">Pasang Sekarang</a>
+            </div>
+          </div>
+          <div class="col-xl-4 col-md-6 col-lg-6">
+            <div class="single_prising">
+              <div class="prising_icon pink">
+                <i class="flaticon-hosting"></i>
+              </div>
+              <h3>Paket Prestige</h3>
+              <p class="prising_text">Triple Play</p>
+              <p class="prising_text">Fitur : USee TV Essential Pack + Internet hingga 300Mbps</p>
+              <p class="prise">Mulai dari <span>Rp470k/Bulan</span></p>
+              <a href="https://wa.me/628886669995?text=Hi%2C%20saya%20ingin%20mendapatkan%20informasi%20mengenai%20produk%20Indihome%20Fiber%20Paket%20Prestige" target="__blank" class="boxed_btn_red">Pasang Sekarang</a>
             </div>
           </div>
         </div>
@@ -87,7 +101,7 @@
     <!-- prising_area_end -->
 
     <!-- core_features_start -->
-    <div class="core_features">
+    <div class="core_features" style="padding-top: 50px;">
       <div class="container">
         <div class="border-bottm">
           <div class="row">
@@ -308,7 +322,7 @@
             <i class="flaticon-chat"></i>
             <span>Pesan Sekarang</span>
           </a>
-          <!-- <a class="boxed_btn_green2" href="#">
+          <!-- <a class="boxed_btn_red" href="#">
             <span>get start now</span>
           </a> -->
         </div>

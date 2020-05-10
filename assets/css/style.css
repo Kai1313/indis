@@ -535,10 +535,34 @@ h3 {
   display: inline-block;
 }
 
+.boxed_btn_red {
+  cursor: pointer;
+  font-size: 16px;
+  color: #fff;
+  padding: 12px 30px;
+  -webkit-border-radius: 30px;
+  -moz-border-radius: 30px;
+  border-radius: 30px;
+  border: 1px solid transparent;
+  -webkit-transition: 0.3s;
+  -moz-transition: 0.3s;
+  -o-transition: 0.3s;
+  transition: 0.3s;
+  background: transparent;
+  color: #da2d2d;
+  border: 1px solid #da2d2d;
+  display: inline-block;
+}
+
 /* line 144, C:/Users/SPN Graphics/Desktop/cl sep/HTML/scss/_btn.scss */
 .boxed_btn_green2:hover {
   color: #fff !important;
   background: #00D363;
+}
+
+.boxed_btn_red:hover {
+  color: #fff !important;
+  background: #da2d2d;
 }
 
 /* line 2, C:/Users/SPN Graphics/Desktop/cl sep/HTML/scss/_section_title.scss */
@@ -1154,7 +1178,7 @@ h3 {
 /* line 1, C:/Users/SPN Graphics/Desktop/cl sep/HTML/scss/_slider.scss */
 .slider_bg_1 {
   /* background-image: url(../img/banner/banner.png); */
-  background-image: url(../img/source/main-banner-2.jpg);
+  background-image: url(../img/source/main-banner.jpg);
 }
 
 /* line 5, C:/Users/SPN Graphics/Desktop/cl sep/HTML/scss/_slider.scss */
@@ -1292,6 +1316,8 @@ h3 {
 /* line 1, C:/Users/SPN Graphics/Desktop/cl sep/HTML/scss/_prising.scss */
 .prising_area {
   /* padding-top: 200px; */
+  padding-top: 170px;
+  background-color: #da2d2d;
   padding-bottom: 170px;
 }
 
@@ -1325,6 +1351,7 @@ h3 {
   border-radius: 5px;
   padding: 29px 23px;
   margin-bottom: 30px;
+  background-color: #ffffff;
 }
 
 /* line 22, C:/Users/SPN Graphics/Desktop/cl sep/HTML/scss/_prising.scss */
@@ -1352,13 +1379,18 @@ h3 {
   color: #FF87A3;
 }
 
+.prising_area .single_prising .prising_icon.teal {
+  color: #20c997;
+}
+
 /* line 39, C:/Users/SPN Graphics/Desktop/cl sep/HTML/scss/_prising.scss */
 .prising_area .single_prising h3 {
   font-size: 24px;
   font-weight: 500;
   font-size: 24px;
   font-weight: 500;
-  color: #2E004B;
+  /* color: #2E004B; */
+  color: #da2d2d;
   margin-bottom: 13px;
   margin-top: 16px;
 }
@@ -1366,6 +1398,8 @@ h3 {
 /* line 48, C:/Users/SPN Graphics/Desktop/cl sep/HTML/scss/_prising.scss */
 .prising_area .single_prising p.prising_text {
   margin-bottom: 0;
+  color: #343a39;
+  font-weight: 400;
 }
 
 /* line 51, C:/Users/SPN Graphics/Desktop/cl sep/HTML/scss/_prising.scss */
@@ -1374,13 +1408,16 @@ h3 {
   line-height: 28px;
   margin-top: 23px;
   margin-bottom: 30px;
+  color: #343a39;
+  font-weight: 400;
 }
 
 /* line 56, C:/Users/SPN Graphics/Desktop/cl sep/HTML/scss/_prising.scss */
 .prising_area .single_prising .prise span {
   font-size: 24px;
   font-weight: 500;
-  color: #2E004B;
+  /* color: #2E004B; */
+  color: #da2d2d;
   padding-left: 10px;
 }
 
@@ -1443,6 +1480,10 @@ h3 {
 
 .package_prsing_area .single_prising .prising_header.pink {
   background: #FF87A3;
+}
+
+.package_prsing_area .single_prising .prising_header.teal {
+  background: #20c997;;
 }
 
 /* line 99, C:/Users/SPN Graphics/Desktop/cl sep/HTML/scss/_prising.scss */
@@ -4182,10 +4223,58 @@ h6 {
   border: 1px solid transparent;
 }
 
+.genric-btn.streamix {
+  color: #fff;
+  background: #886CFE;
+  border: 1px solid transparent;
+}
+
+.genric-btn.prestige {
+  color: #fff;
+  background: #FF87A3;
+  border: 1px solid transparent;
+}
+
+.genric-btn.gamer {
+  color: #fff;
+  background: #F3C306;;
+  border: 1px solid transparent;
+}
+
+.genric-btn.fitvar {
+  color: #fff;
+  background: #20c997;;
+  border: 1px solid transparent;
+}
+
 /* line 261, C:/Users/SPN Graphics/Desktop/cl sep/HTML/scss/_elements.scss */
 .genric-btn.info:hover {
   color: #38a4ff;
   border: 1px solid #38a4ff;
+  background: #fff;
+}
+
+.genric-btn.streamix:hover {
+  color: #886CFE;
+  border: 1px solid #886CFE;
+  background: #fff;
+}
+
+.genric-btn.prestige:hover {
+  color: #FF87A3;
+  border: 1px solid #FF87A3;
+  background: #fff;
+}
+
+.genric-btn.gamer:hover {
+  color: #F3C306;
+  border: 1px solid #F3C306;
+  background: #fff;
+}
+
+.genric-btn.fitvar:hover {
+  color: #20c997;
+  border: 1px solid #20c997;
   background: #fff;
 }
 
