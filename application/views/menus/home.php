@@ -204,13 +204,13 @@
     <!-- core_features_end -->
 
     <!-- dedicated_support_start -->
-    <div class="dedicated_support support_bg">
+    <div class="dedicated_support support_bg overlay2">
       <div class="container">
         <div class="row">
           <div class="col-xl-5 col-md-8">
             <div class="support_info">
               <h3>24h Customer Support</h3>
-              <p>Layanan pelanggan 24jam siap melayani dan menjawab kebutuhan anda.</p>
+              <p style="font-weight: 400;">Layanan pelanggan 24jam siap melayani dan menjawab kebutuhan anda.</p>
               <div class="get_started">
                 <a class="boxed_btn_green" href="https://wa.me/628886669995?text=Hi%2C%20saya%20ingin%20mendapatkan%20informasi%20mengenai%20produk%20Indihome" target="__blank">
                   <span>Pesan Sekarang</span>
