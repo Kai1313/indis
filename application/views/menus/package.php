@@ -554,30 +554,36 @@
             <div class="tab-content" id="nav-tabContent">
               <div class="tab-pane fade show active" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">
                 <div class="row">
-                  <div class="col-xl-6">
+                  <div class="col-xl-12">
                     <div class="single_features">
                       <div class="icon"><i class="fa fa-wifi" style="top: 25px;"></i></div>
                       <div class="features_info">
                         <h4>Internet Fiber Optik</h4>
-                        <p>Layanan internet super cepat menggunakan fiber optik Dengan keunggulan cepat, stabil, & canggih</p>
+                        <img src="<?= base_url()?>assets/img/source/internet-on-fiber-tabel.png" alt="" class="img-features">
                       </div>
                     </div>
                   </div>
-                  <div class="col-xl-6">
+                </div>
+                <div class="row">
+                  <div class="col-xl-12">
                     <div class="single_features">
                       <div class="icon blue"><i class="fa fa-tv" style="top: 25px;"></i></div>
                       <div class="features_info">
                         <h4>USee TV</h4>
-                        <p>Pengalaman nonton lebih seru di UseeTV! Bisa playback hingga 7 hari dan pilih channel TV favorit sepuasnya.</p>
+                        <img src="<?= base_url()?>assets/img/source/usee-tv.jpg" alt="" class="img-features">
+                        <img src="<?= base_url()?>assets/img/source/usee-tv-2.jpg" alt="" class="img-features">
+                        <img src="<?= base_url()?>assets/img/source/usee-tv-3.jpg" alt="" class="img-features">
                       </div>
                     </div>
                   </div>
-                  <div class="col-xl-6">
+                </div>
+                <div class="row">
+                  <div class="col-xl-12">
                     <div class="single_features">
                       <div class="icon pink"><i class="fa fa-phone" style="top: 25px;"></i></div>
                       <div class="features_info">
                         <h4>Telepon Rumah</h4>
-                        <p>Komunikasi telepon dengan keunggulan biaya nelpon lebih murah dan kualitas suara yang jernih</p>
+                        <img src="<?= base_url()?>assets/img/source/internet-fiber.jpg" alt="" class="img-features">
                       </div>
                     </div>
                   </div>
